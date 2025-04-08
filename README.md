@@ -1,4 +1,6 @@
-![Watermelonabc's GitHub stats](https://github-readme-stats.vercel.app/api?username=rt265&show_icons=true&theme=onedark)
+![Watermelonabc's GitHub stats](https://github-readme-stats.vercel.app/api?username=rt265&show_icons=true&theme=tokyonight)
+
+[![Watermelonabc's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rt265&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 泥嚎 👋
 
@@ -22,7 +24,7 @@
 
 🖥 Personal Blog: https://watermelonabc.top/
 
-Bilibili: https://space.bilibili.com/23931315
+📺 Bilibili: https://space.bilibili.com/23931315
 
 <!--
 **rt265/rt265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
