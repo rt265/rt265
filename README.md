@@ -1,3 +1,5 @@
+![Watermelonabc's GitHub stats](https://github-readme-stats.vercel.app/api?username=rt265&show_icons=true&theme=onedark)
+
 ## 泥嚎 👋
 
 这里是 Watermelonabc。
