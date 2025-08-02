@@ -1,4 +1,4 @@
-# OwO
+<h1 align="center"> OwO </h1>
 
 ## 泥嚎 👋 Hello
 
@@ -19,6 +19,8 @@ This is Watermelonabc.
 
 - 45° 仰躺，在摆烂与内卷 ~~的对立统一~~ 中生活
 
+- 总之，我（有时）使用 CachyOS（一个 Arch Linux 衍生发行版）
+
 ---
 
 - A sophomore majoring in Computer Science and Technology at Fuzhou University
@@ -30,6 +32,8 @@ This is Watermelonabc.
 - Always be silent. Suffering social anxiety.
 
 - Tired, bored
+
+- Btw, I use CachyOS (an Arch-based distro) sometime.
 
 ## 找我 ☎️ Contact Me
 
