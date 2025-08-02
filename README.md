@@ -1,10 +1,13 @@
-## 泥嚎 👋
+# OwO
+
+## 泥嚎 👋 Hello
 
 这里是 Watermelonabc。
+This is Watermelonabc.
 
-## 我是 🤔
+## 我是 🤔 Whoami
 
-- 福州大学计算机科学与技术专业大二学生
+- 福州大学计算机科学与技术系大二学生
 
 - 还在入门的 CTFer，二进制逆向苦手
 
@@ -16,7 +19,19 @@
 
 - 45° 仰躺，在摆烂与内卷 ~~的对立统一~~ 中生活
 
-## 找我 ☎️
+---
+
+- A sophomore majoring in Computer Science and Technology at Fuzhou University
+
+- A not good enough CTFer, struggling to learn reverse engineering.
+
+- A furry that not so furry. I have regretted not meeting that special one in my most active days.
+
+- Always be silent. Suffering social anxiety.
+
+- Tired, bored
+
+## 找我 ☎️ Contact Me
 
 📮 Email: 2172718424@qq.com
 
@@ -26,7 +41,7 @@
 
 📺 Bilibili: https://space.bilibili.com/23931315
 
-## Github 数据 📈
+## Github 数据 📈 Github Data
 
 ![Watermelonabc's GitHub stats](https://github-readme-stats.vercel.app/api?username=rt265&show_icons=true&theme=tokyonight)
 
