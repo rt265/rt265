@@ -19,7 +19,7 @@ This is Watermelonabc.
 
 - 45° 仰躺，在摆烂与内卷 ~~的对立统一~~ 中生活
 
-- 总之，我（有时）使用 CachyOS（一个 Arch Linux 衍生发行版）
+- ~~另外，我（有时）使用 CachyOS（一个 Arch Linux 衍生发行版）~~ 现在不是了 :(
 
 ---
 
@@ -33,7 +33,7 @@ This is Watermelonabc.
 
 - Tired, bored
 
-- Btw, I use CachyOS (an Arch-based distro) sometime.
+- ~~Btw, I use CachyOS (an Arch-based distro) sometime.~~ :(
 
 ## 找我 ☎️ Contact Me
 
