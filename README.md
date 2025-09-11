@@ -3,13 +3,16 @@
 ## 泥嚎 👋 Hello
 
 这里是 Watermelonabc。
+
 This is Watermelonabc.
 
 ## 我是 🤔 Whoami
 
 - 福州大学计算机科学与技术系大二学生
 
-- 还在入门的 CTFer，二进制逆向苦手
+- 蒟蒻 CTFer，二进制逆向苦手
+
+- FZU ROIS 团队正式队员
 
 - 浓度不太高的 Furry，很遗憾没有在最活泛的时光里想出那个特别的 TA
 
@@ -27,13 +30,15 @@ This is Watermelonabc.
 
 - A not good enough CTFer, struggling to learn reverse engineering.
 
+- A member of FZU ROIS
+
 - A furry that not so furry. I have regretted not meeting that special one in my most active days.
 
 - Always be silent. Suffering social anxiety.
 
 - Tired, bored
 
-- ~~Btw, I use CachyOS (an Arch-based distro) sometime.~~ :(
+- ~~Btw, I use CachyOS (an Arch-based distro) sometime.~~ not today :(
 
 ## 找我 ☎️ Contact Me
 
