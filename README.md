@@ -22,7 +22,7 @@ This is Watermelonabc.
 
 - 45° 仰躺，在摆烂与内卷 ~~的对立统一~~ 中生活
 
-- 在用 Fedora ~~才不会告诉你我的 CachyOS 炸了呢 :(~~
+- 刚换完笔记本电脑，所以 Linux 暂时拜拜咯 ヾ(•ω•`)o
 
 ---
 
@@ -38,7 +38,7 @@ This is Watermelonabc.
 
 - Tired, bored
 
-- Btw, I use Fedora ~~CachyOS just BOOMED :(~~
+- Just changed my laptop, so goodbye Linux ヾ(•ω•`)o
 
 ## 找我 ☎️ Contact Me
 
