@@ -22,7 +22,7 @@ This is Watermelonabc.
 
 - 45° 仰躺，在摆烂与内卷 ~~的对立统一~~ 中生活
 
-- 刚换完笔记本电脑，所以 Linux 暂时拜拜咯 ヾ(•ω•`)o
+- Windows 11 和 CachyOS 双系统
 
 ---
 
@@ -38,13 +38,13 @@ This is Watermelonabc.
 
 - Tired, bored
 
-- Just changed my laptop, so goodbye Linux ヾ(•ω•`)o
+- Dual systems of Windows 11 and CachyOS
 
 ## 找我 ☎️ Contact Me
 
 📮 Email: 2172718424@qq.com
 
-🏠 Personal Homepage: https://www.watermelonabc.top/ (⚠️ Not Active)
+🏠 Personal Homepage: https://www.watermelonabc.top/ (⚠️ Not Active, Do Not Visit!)
 
 🖥 Personal Blog: https://watermelonabc.top/
 
