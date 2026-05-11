@@ -22,8 +22,6 @@ This is Watermelonabc.
 
 - 45° 仰躺，在摆烂与内卷 ~~的对立统一~~ 中生活
 
-- Windows 11 和 CachyOS 双系统
-
 ---
 
 - A sophomore majoring in Computer Science and Technology at Fuzhou University
@@ -38,13 +36,9 @@ This is Watermelonabc.
 
 - Tired, bored
 
-- Dual systems of Windows 11 and CachyOS
-
 ## 找我 ☎️ Contact Me
 
 📮 Email: 2172718424@qq.com
-
-🏠 Personal Homepage: https://www.watermelonabc.top/ (⚠️ Not Active, Do Not Visit!)
 
 🖥 Personal Blog: https://watermelonabc.top/
 
