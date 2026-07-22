@@ -8,7 +8,7 @@ This is Watermelonabc.
 
 ## 我是 🤔 Whoami
 
-- 福州大学计算机科学与技术系大二学生
+- 福州大学计算机科学与技术系大三学生
 
 - 蒟蒻 CTFer，二进制逆向苦手
 
@@ -18,13 +18,11 @@ This is Watermelonabc.
 
 - 社交焦虑，线上线下都是沉默的人
 
-- ~~osu! 刚入门~~ 弃坑了。三分钟热度，你赢了
-
 - 45° 仰躺，在摆烂与内卷 ~~的对立统一~~ 中生活
 
 ---
 
-- A sophomore majoring in Computer Science and Technology at Fuzhou University
+- A junior student majoring in Computer Science and Technology at Fuzhou University
 
 - A not good enough CTFer, struggling to learn reverse engineering.
 
