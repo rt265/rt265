@@ -44,6 +44,8 @@ This is Watermelonabc.
 
 ## Github 数据 📈 Github Data
 
+[![Watermelonabc's GitHub stats](https://github-stats-extended.vercel.app/api?username=rt265)](https://github.com/stats-organization/github-stats-extended)
+
 [![Watermelonabc's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rt265&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
