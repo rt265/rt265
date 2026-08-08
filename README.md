@@ -44,7 +44,7 @@ This is Watermelonabc.
 
 ## Github 数据 📈 Github Data
 
-[![Watermelonabc's GitHub Stats](https://github-stats-extended-rt265.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended-rt265.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=catppuccin_latte)
+[![Watermelonabc's GitHub Stats](https://github-stats-extended-rt265.vercel.app/api?username=rt265&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended-rt265.vercel.app/api?username=rt265&show_icons=true&include_all_commits=true&theme=catppuccin_latte)
 
 [![Watermelonabc's Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rt265&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
