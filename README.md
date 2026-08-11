@@ -1,5 +1,8 @@
 <h1 align="center"> OwO </h1>
 
+<div align="center"><img width="294" height="371" alt="20250407105634077(1)" src="https://github.com/user-attachments/assets/f7044ab5-9207-43dc-b5c2-19ca90bea161" /></div>
+<div align="center">Meow~</div>
+
 ## 泥嚎 👋 Hello
 
 这里是 Watermelonabc。
