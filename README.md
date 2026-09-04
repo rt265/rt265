@@ -17,7 +17,7 @@ This is Watermelonabc.
 
 - FZU ROIS 团队正式队员
 
-- 浓度不太高的 Furry，很遗憾没有在最活泛的时光里想出那个特别的 TA
+- 浓度不太高的 Furry
 
 - 社交焦虑，线上线下都是沉默的人
 
@@ -31,7 +31,7 @@ This is Watermelonabc.
 
 - A member of FZU ROIS
 
-- A furry that not so furry. I have regretted not meeting that special one in my most active days.
+- A furry that is not so furry.
 
 - Always be silent. Suffering social anxiety.
 
@@ -41,7 +41,7 @@ This is Watermelonabc.
 
 📮 Email: 2172718424@qq.com
 
-🖥 Personal Blog: https://watermelonabc.top/
+🖥 Personal Blog: https://blog.watermelonabc.top/
 
 📺 Bilibili: https://space.bilibili.com/23931315
 
@@ -50,17 +50,3 @@ This is Watermelonabc.
 [![Watermelonabc's GitHub Stats](https://github-stats-extended-rt265.vercel.app/api?username=rt265&show_icons=true&theme=catppuccin_latte)](https://github-stats-extended-rt265.vercel.app/api?username=rt265&show_icons=true&include_all_commits=true&theme=catppuccin_latte) | [![GitHub Stats](https://github-stats-extended-rt265.vercel.app/api/top-langs?username=rt265&layout=compact&langs_count=4&theme=catppuccin_latte)](https://github-stats-extended-rt265.vercel.app/api/top-langs?username=rt265&layout=compact&langs_count=4&theme=catppuccin_latte)
 
 
-<!--
-**rt265/rt265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
