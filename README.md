@@ -1,6 +1,6 @@
 <h1 align="center"> OwO </h1>
 
-<div align="center"><img width="294" height="371" alt="20250407105634077(1)" src="https://github.com/user-attachments/assets/f7044ab5-9207-43dc-b5c2-19ca90bea161" /></div>
+<div align="center"><img width="294" height="371" alt="Cat After Rain" src="https://github.com/user-attachments/assets/f7044ab5-9207-43dc-b5c2-19ca90bea161" /></div>
 <div align="center">Meow~</div>
 
 ## 泥嚎 👋 Hello
@@ -19,6 +19,8 @@ This is Watermelonabc.
 
 - 浓度不太高的 Furry
 
+- 明日方舟回坑博士
+
 - 社交焦虑，线上线下都是沉默的人
 
 - 45° 仰躺，在摆烂与内卷 ~~的对立统一~~ 中生活
@@ -33,9 +35,17 @@ This is Watermelonabc.
 
 - A furry that is not so furry.
 
+- A "doctor" of Arknights
+
 - Always be silent. Suffering social anxiety.
 
 - Tired, bored
+
+## 技术栈 🛠️ Tech Stack
+
+## 目标 ✨ Goals
+
+- 希望在网络安全行业找到工作
 
 ## 找我 ☎️ Contact Me
 
