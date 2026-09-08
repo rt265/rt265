@@ -12,40 +12,42 @@ This is Watermelonabc.
 ## 我是 🤔 Whoami
 
 - 福州大学计算机科学与技术系大三学生
-
 - 蒟蒻 CTFer，二进制逆向苦手
-
 - FZU ROIS 团队正式队员
-
 - 浓度不太高的 Furry
-
 - 明日方舟回坑博士
-
-- 社交焦虑，线上线下都是沉默的人
-
-- 45° 仰躺，在摆烂与内卷 ~~的对立统一~~ 中生活
 
 ---
 
 - A junior student majoring in Computer Science and Technology at Fuzhou University
-
 - A not good enough CTFer, struggling to learn reverse engineering.
-
 - A member of FZU ROIS
-
 - A furry that is not so furry.
-
 - A "doctor" of Arknights
 
-- Always be silent. Suffering social anxiety.
+## 技能 🛠️ Skills
 
-- Tired, bored
+- 熟悉 C/C++、Python 等常用编程语言
+- 熟悉基本的二进制安全知识
 
-## 技术栈 🛠️ Tech Stack
+---
+
+- Understanding C/C++, Python, etc.
+- Understanding basic binary security knowledge
+
+## 成就 🏆 Achievements
+
+- 第十九届全国大学生信息安全竞赛（创新实践能力赛）暨第三届“长城杯”网数智安全大赛（防护赛）半决赛广东赛区团队一等奖
 
 ## 目标 ✨ Goals
 
+- 目前在研究移动安全
 - 希望在网络安全行业找到工作
+
+---
+
+- Researching on mobile security.
+- Seeking jobs in field of Cybersecurity.
 
 ## 找我 ☎️ Contact Me
 
@@ -57,6 +59,6 @@ This is Watermelonabc.
 
 ## Github 数据 📈 Github Data
 
-[![Watermelonabc's GitHub Stats](https://github-stats-extended-rt265.vercel.app/api?username=rt265&show_icons=true&theme=catppuccin_latte)](https://github-stats-extended-rt265.vercel.app/api?username=rt265&show_icons=true&include_all_commits=true&theme=catppuccin_latte) | [![GitHub Stats](https://github-stats-extended-rt265.vercel.app/api/top-langs?username=rt265&layout=compact&langs_count=4&theme=catppuccin_latte)](https://github-stats-extended-rt265.vercel.app/api/top-langs?username=rt265&layout=compact&langs_count=4&theme=catppuccin_latte)
+[![Watermelonabc's GitHub Stats](https://github-stats-extended-rt265.vercel.app/api?username=rt265&show_icons=true&theme=catppuccin_latte)](https://github-stats-extended-rt265.vercel.app/api?username=rt265&show_icons=true&include_all_commits=true&theme=catppuccin_latte) [![GitHub Stats](https://github-stats-extended-rt265.vercel.app/api/top-langs?username=rt265&layout=compact&langs_count=4&theme=catppuccin_latte)](https://github-stats-extended-rt265.vercel.app/api/top-langs?username=rt265&layout=compact&langs_count=4&theme=catppuccin_latte)
 
 
