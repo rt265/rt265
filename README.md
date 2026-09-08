@@ -28,12 +28,14 @@ This is Watermelonabc.
 ## 技能 🛠️ Skills
 
 - 熟悉 C/C++、Python 等常用编程语言
-- 熟悉基本的二进制安全知识
+- 掌握基本的二进制安全知识
+- 了解现代前端技术
 
 ---
 
-- Understanding C/C++, Python, etc.
-- Understanding basic binary security knowledge
+- Familiarizing C/C++, Python, etc.
+- Mastering basic binary security knowledge
+- Understanding modern frontend technology
 
 ## 成就 🏆 Achievements
 
